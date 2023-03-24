@@ -1,11 +1,11 @@
-## Dear Mojang,
+I know that EaglercraftX 1.8.9 got taken down due to DMCA from Mojang that I wished that you created the last or next project called Eaglercraft Pi Edition It's just an update for Sussy Red's New Eaglercraft/Minecraft Scratch launcher WrapperCraft https://among-us-sussy-red.itch.io/wrappercraft you can port it to a html file but i wanna let you know that Eaglercraft Pi Edition is Minecraft Pi Edition You may have to gray out the Join Game button
 
-I am one of the developers of a project that has recently become a large target of your DMCA team, the project in question is "Eaglercraft" which is a series of full HTML5/JavaScript ports of Minecraft Java Edition's source code that run on all major browsers and are fully compatible with all existing Minecraft multiplayer infrastructure.
+This is what it looks like:
 
-We (the developers) are not interested in fighting your DMCA complaints, neither are we affiliated with any sites still providing the infringing files, we are simply interested in preserving the project even if that does mean first completely removing every open source copy of the project off of the internet via DMCA.
+Menu: https://storage.googleapis.com/replit/images/1637730236952_ec845e7c6a10ab8a55318e8942236124.png
 
-The game runs smoothly even on low end hardware, like Chromebooks, and we believe your developer team may be interested in taking a look at our code and potentially adopting the source of the project for official use on Minecraft.net as a paid web client once these DMCA complaints are resolved.
+Worlds Menu: https://cdn.pimylifeup.com/wp-content/uploads/2020/02/Create-new-World-in-Minecraft-Pi-04.jpg
 
-We are hoping you can assist us in getting in contact with an active Mojang representative, the Eaglercraft creator's inbox for this specific subject is eagsforum [at] gmail [dot] com if you could forward this contact information and these links to the Java Edition developer team it would be much appreciated.
+Game: https://community.element14.com/resized-image/__size/620x367/__key/communityserver-blogs-components-weblogfiles/00-00-00-01-34/6558.contentimage_5F00_70275.png
 
-The goal of eaglercraft was never to pirate the game, it was just to port it to the browser, and the years of time and effort put into the port should not be killed off so violently. we ask that you contact us at the email above to talk things out and figure out a future for eagler. Thank you for reading <3
+Create World: https://guides.gamepressure.com/minecraft/gfx/word/556502078.jpg (You may have to remove Hardcore Mode) You can send a html file from my discord, not github because they dmca you if you put it on github or gitlab.
