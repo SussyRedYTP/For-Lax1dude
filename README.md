@@ -1,4 +1,4 @@
-I know that EaglercraftX 1.8.9 got taken down due to DMCA from Mojang that I wished that you created the last or next project called Eaglercraft Pi Edition It's just an update for Sussy Red's New Eaglercraft/Minecraft Scratch launcher WrapperCraft https://among-us-sussy-red.itch.io/wrappercraft you can port it to a html file but i wanna let you know that Eaglercraft Pi Edition is Minecraft Pi Edition You may have to gray out the Join Game button
+I know that EaglercraftX 1.8.9 got taken down due to DMCA from Mojang that I wished that you created the next project called Eaglercraft Pi Edition It's just an update for Sussy Red's New Eaglercraft/Minecraft Scratch launcher WrapperCraft https://among-us-sussy-red.itch.io/wrappercraft you can port it to a html file but i wanna let you know that Eaglercraft Pi Edition is Minecraft Pi Edition You may have to gray out the Join Game button
 
 This is what it looks like:
 
