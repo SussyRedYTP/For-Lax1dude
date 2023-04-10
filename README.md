@@ -8,6 +8,5 @@ Worlds Menu: https://media.discordapp.net/attachments/1095052933755838670/109505
 
 Game: https://community.element14.com/resized-image/__size/620x367/__key/communityserver-blogs-components-weblogfiles/00-00-00-01-34/6558.contentimage_5F00_70275.png
 
-Create World: https://media.discordapp.net/attachments/1095052933755838670/1095053258948616285/Minecraft__Pi_Edition_Online_-_Replit_-_Google_Chrome_3_25_2023_7_41_28_PM_2.png?width=1119&height=582
-
+Create World: Pop-Up1: World Name PopUp2: Gamemode PopUp3: Seed
 - Sussy Red YTP
