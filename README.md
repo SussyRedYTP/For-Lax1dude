@@ -23,4 +23,4 @@ PopUp2: Gamemode
 PopUp3: Seed
 
 - Sussy Orange YTP
-(srry bout that, just sussy orange got into my acc)
+(srry bout that, idk who got into my acc)
